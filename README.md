@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI,ML,NLP,CV basically technology and its magics  
 - 🌱 I’m currently learning about different projects on the same.
 - 💞️ I’m looking to collaborate on ML,NLP engineering 
-- 📫 you can reach me at vigneshmsurie108@gmail.com
+- 📫 connect with me on vigneshmsurie108@gmail.com
 
 <!---
 Vignesh-M-Surie/Vignesh-M-Surie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
